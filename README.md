@@ -1,0 +1,2 @@
+# JoshiBot
+Ein Discord BOt
